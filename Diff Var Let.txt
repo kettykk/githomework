@@ -1,0 +1,10 @@
+En javascript, les mots clés var et let sont utilisés pour déclarer des variables.
+Difference entre Let et Var 
+Let
+-Let est à portée de bloc
+-Let ne permet pas la redeclaration des variables
+Let est vivement recommandee pou les declarations de variable.Il s'agit d'une amelioration portee aux declarations var et resout le probleme de valeurs contradictoires que peut poser var.
+C'est un meilleur choix par rapport à var.Quand nous travaillons avec let.nous ne sommes pas obliges de verifier si elle definit dans un contexte autre que celui ou nous la declarations.
+Var
+-var est une portée de fonction
+-var permet la redeclaration des variables
